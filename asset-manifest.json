@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/railwaysir/static/css/main.1e9a7712.chunk.css",
-    "main.js": "/railwaysir/static/js/main.64c41ac4.chunk.js",
-    "main.js.map": "/railwaysir/static/js/main.64c41ac4.chunk.js.map",
+    "main.js": "/railwaysir/static/js/main.f25008dd.chunk.js",
+    "main.js.map": "/railwaysir/static/js/main.f25008dd.chunk.js.map",
     "runtime-main.js": "/railwaysir/static/js/runtime-main.362e5e0a.js",
     "runtime-main.js.map": "/railwaysir/static/js/runtime-main.362e5e0a.js.map",
     "static/js/2.b5bf4a83.chunk.js": "/railwaysir/static/js/2.b5bf4a83.chunk.js",
     "static/js/2.b5bf4a83.chunk.js.map": "/railwaysir/static/js/2.b5bf4a83.chunk.js.map",
     "index.html": "/railwaysir/index.html",
-    "precache-manifest.fea95fa9ec6e11374f4812e25b5446a1.js": "/railwaysir/precache-manifest.fea95fa9ec6e11374f4812e25b5446a1.js",
+    "precache-manifest.a5cffc53a3ed1ac7e71f4c297209139b.js": "/railwaysir/precache-manifest.a5cffc53a3ed1ac7e71f4c297209139b.js",
     "service-worker.js": "/railwaysir/service-worker.js",
     "static/css/main.1e9a7712.chunk.css.map": "/railwaysir/static/css/main.1e9a7712.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.362e5e0a.js",
     "static/js/2.b5bf4a83.chunk.js",
     "static/css/main.1e9a7712.chunk.css",
-    "static/js/main.64c41ac4.chunk.js"
+    "static/js/main.f25008dd.chunk.js"
   ]
 }
